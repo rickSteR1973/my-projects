@@ -1,0 +1,38 @@
+.navBar1{
+    height: 80px;
+    background-color: rgb(0, 38, 77);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+.c-2{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.btn-primary1 {
+    background-color: rgb(58, 83, 116);
+    /* padding: 2px; */
+    color: white;
+    border: #212529 2px solid;
+    transition: ease-in 300ms;
+}
+
+.btn-primary1:hover {
+    background-color: rgb(0, 38, 77);
+    color: white;
+}
+body{
+    background-image: url(../img/background2.png);
+    background-size: cover;
+}
+.main{
+    background-color: #ffffffc2;
+    /* color: white; */
+    border-radius: 10px;
+    padding: 10px;
+    
+}

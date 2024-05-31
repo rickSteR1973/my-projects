@@ -1,0 +1,98 @@
+.container ul {
+    padding: 0;
+    float: right;
+}
+
+.container ul li {
+
+    margin: 0 10px;
+    display: inline-block;
+}
+
+.container ul li a {
+    margin: 15px 0px;
+}
+
+.error {
+    color: red;
+}
+
+.form-control.error {
+    color: rgb(118, 118, 118);
+    border: red 1px solid;
+}
+
+.form-control.valid {
+    border: green 1.5px solid;
+}
+
+.form-select.valid {
+    border: green 1.5px solid;
+}
+
+.row-button {
+    margin: 0 5px;
+}
+
+tbody td {
+    line-height: 35px;
+    text-align: center;
+}
+
+table.dataTable thead th {
+    margin: 0;
+    padding: 0;
+    padding-left: 10px;
+    line-height: 35px;
+    text-align: center;
+
+}
+
+.modal-body {
+    padding: 10px 30px
+}
+
+.form-select.error {
+    border: rgb(168, 168, 168) 1.5px solid;
+    color: #212529;
+}
+
+.btn-primary {
+    background-color: rgb(75, 107, 149);
+    /* padding: 2px; */
+    color: white;
+    /* border: #212529 2px solid; */
+    transition: ease-in 300ms;
+}
+
+.btn-primary1:hover {
+    background-color: rgb(0, 38, 77);
+    color: white;
+}
+
+@media only screen and (max-width: 1426px) { 
+    .dataTables_wrapper {
+        overflow: scroll;
+    }
+
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+    background: linear-gradient(to bottom, rgb(0 38 77) 0%, #4b6b95ad 100%);
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button.current, .dataTables_wrapper .dataTables_paginate .paginate_button.current:hover{
+    background: linear-gradient(to bottom, #cbcbd1 0%, rgb(75, 107, 149) 100%);
+    border: 1px solid rgb(75, 107, 149);
+
+}
+.btn-danger{
+    background-color: #fc2b55;
+}
+
+/*
+    .os-scroll{
+        width: 100%;
+        overflow: scroll;
+         height: min-content; 
+    }    
+
+}  
