@@ -1,0 +1,47 @@
+.container ul {
+    padding: 0;
+    float: right;
+}
+.container ul li{
+    
+    margin: 0 10px;
+    display: inline-block;
+}
+.container ul li a{
+    margin: 15px 0px;
+}
+.error{
+    color: red;
+}
+.form-control.error{
+    color: rgb(118, 118, 118);
+    border: red 1px solid;
+}
+.form-control.valid{
+    border: green 1.5px solid;
+}
+.form-select.valid{
+    border: green 1.5px solid;
+}
+.row-button{
+    margin: 0 5px;
+}
+tbody td {
+    line-height: 35px;
+    text-align: center;
+}
+table.dataTable thead th{
+    margin: 0;
+    padding: 0;
+    padding-left: 10px;
+    line-height: 35px;
+    text-align: center;
+
+}
+.modal-body{
+    padding: 10px 30px
+}
+.form-select.error{
+    border: rgb(168, 168, 168) 1.5px solid;
+    color: #212529;
+}
