@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../css/first.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <link href="https://www.dafontfree.net/embed/Y29yYmVsLWJvbGQmZGF0YS80Ni9jLzYzMDY2L0NvcmJlbCBCb2xkLnR0Zg"
+        rel="stylesheet" type="text/css" />
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .logo {
+            height: 90px;
+        }
+
+        .firstline {
+            height: 17px;
+            width: 100%;
+            background-color: #254470;
+        }
+
+        .card {
+            margin: 170px auto;
+            height: 638px;
+            width: 1010px;
+            /* background-color: #254470; */
+            border: rgb(243, 229, 229) 1px solid;
+        }
+
+        .footerine {
+            /* bottom: 0; */
+            /* margin-top: 10%; */
+            position: absolute;
+            /* bottom: 0; */
+            height: 17px;
+            width: 1010px;
+            background-color: #254470;
+        }
+
+        .secondpart {
+            /* border: red 2px solid; */
+            height: 140px;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            background-color: #01b5ce;
+            justify-content: space-between;
+        }
+
+        #logoimg {
+            height: 90px;
+            margin: 0 0 0 35px;
+        }
+
+        .contentOfNavbar {
+            margin-left: 30px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            font-family: 'corbel-bold', sans-serif;
+        }
+
+        #titleLogo {
+            font-size: 57px;
+            color: #29176d;
+            font-weight: 700;
+        }
+
+        #discritionOflogo {
+            margin-top: 7px;
+            font-size: 14px;
+            z-index: 15;
+            color: white;
+            font-family: 'corbel-bold', sans-serif;
+            /* word-break: 20px; */
+            /* word-spacing: 2px; */
+
+        }
+
+        #rightOne {
+            /* justify-content: flex-end; */
+            height: 140px;
+            /* position: absolute; */
+            float: right;
+            position: relative;
+            z-index: 15;
+        }
+
+        .d-flex {
+            display: flex;
+            align-items: center;
+        }
+
+        .thirdpart {
+
+            height: 461px;
+            top: 0;
+            padding: 1px;
+            background-image: url(../img/background.jpg);
+        }
+
+        .mainInfo {
+            height: 170px;
+            /* width: 60%; */
+            /* border: rgb(0, 0, 0) 2px solid; */
+            margin: 76px 0px 0 30px;
+            display: flex;
+        }
+
+        .child {
+            width: 26%;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            font-size: 26px;
+            font-weight: bold;
+        }
+
+        .child1 {
+            width: 20%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-between;
+            font-size: 26px;
+            font-weight: bolder;
+        }
+
+        .signaturePart {
+            margin-top: 60px;
+            display: flex;
+            /* height: 20px; */
+            /* border: rebeccapurple solid 2px; */
+            padding-left: 30px;
+            gap: 100px;
+        }
+
+        .tagSignature {
+            margin: 0 30px;
+
+
+        }
+
+        .sign1 {
+            /* width: 100px;
+             */
+            height: 60px;
+        }
+
+        .imgSigntures {
+            display: flex;
+            justify-content: space-around;
+            width: 50%;
+        }
+
+        .cc1 {
+            font-size: 26px;
+            font-weight: bold;
+            font-family: 'corbel-bold', sans-serif;
+        }
+
+        .cc2 {
+            font-size: 26px;
+            font-weight: bold;
+            font-family: 'corbel-bold', sans-serif;
+            margin-left: 10px;
+        }
+
+        #s1 {
+            margin-left: 40px;
+        }
+
+        .cc {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        #photoOfClient {
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            /* position: absolute; */
+            height: fit-content;
+            float: right;
+            /* right: 0; */
+            /* margin: 90px 0 0 607px;*/
+        }
+
+        #line {
+            width: 115px;
+            /* float: right; */
+            margin-left: 132px;
+            margin-bottom: 10px;
+
+        }
+
+        #namePhoto {
+            margin-top: 15px;
+            color: #254470;
+            font-size: 40px;
+            text-align: center;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-weight: bold;
+
+        }
+
+        #clientPic {
+            height: 400px;
+            width: 400px;
+            margin-top: -145px;
+            /* z-index: 5; */
+            overflow: hidden;
+            position: relative;
+        }
+
+        #mainPic {
+            height: 375px;
+            width: 380px;
+            position: absolute;
+            margin-top: -115px;
+            object-fit: cover;
+        }
+
+        .imageOfClient {
+            height: 400px;
+            width: 400px;
+            background-image: url(../img/round.png);
+            background-size: cover;
+            margin-top: -136px;
+            overflow: hidden;
+            z-index: 10;
+            margin-right: 20px
+        }
+    </style>
+</head>
+
+<body>
+    <div class="card">
+
+        <!-- <header> -->
+        <div class="firstline"></div>
+
+        <div class="secondpart">
+            <div class="d-flex">
+
+                <div class="logo">
+                    <img src="../img/logo.png" id="logoimg" alt="">
+                </div>
+                <div class="contentOfNavbar">
+                    <span id="titleLogo">
+                        Rajpath Club Limited
+
+                    </span>
+                    <!-- <br> -->
+                    <span id="discritionOflogo">
+                        Redg Off. : Thaltej - Satelite Road, Ahmedabad - 59 Ph. : 079 - 29705181 - 84
+                    </span>
+                </div>
+            </div>
+            <div>
+
+                <div class="rightone">
+                    <img src="../img/rightone.png" alt="" id="rightOne">
+                </div>
+            </div>
+        </div>
+        <div class="thirdpart">
+            <div class="mainInfo">
+                <div class="child">
+                    <div>Member No. </div>
+                    <div>Category </div>
+                    <div>Card Type </div>
+                    <div>Date of Birth</div>
+                </div>
+                <div class="child1" style="width: 12%;">
+                    <div>:</div>
+                    <div>:</div>
+                    <div>:</div>
+                    <div>:</div>
+                </div>
+                <div class="child" style="width: 60%;">
+                    <div>E1079 </div>
+                    <div>ORDINARY MEMBER </div>
+                    <div>Member </div>
+                    <div>09 - 04 - 1984</div>
+                </div>
+                <div id="photoOfClient">
+                    <div class="imageOfClient"></div>
+                    <!-- <img src="../img/line.png" id="line" alt=""> -->
+                    <img src="../img/main1.jpg" id="mainPic" alt="">
+                    <!-- <img src="../img/round.png" id="clientPic" alt=""> -->
+                    <div id="namePhoto">Kuldeep J. Patel</div>
+                </div>
+
+            </div>
+            <div class="signaturePart">
+                <div class="cc">
+                    <img src="../img/s2.png" id="s1" class="sign1" alt="">
+                    <span class="cc1">Secretary Signature</span>
+
+                </div>
+                <div class="cc">
+                    <img src="../img/s1.png" class="sign1" alt="">
+                    <span class="cc2">Signature</span>
+
+                </div>
+
+            </div>
+
+        </div>
+        <div class="footerine"></div>
+    </div>
+    <!-- </header> -->
+
+</body>
+
+</html>
