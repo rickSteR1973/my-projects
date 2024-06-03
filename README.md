@@ -1,14 +1,12 @@
-CRUD is for learning purposes.
-
-The main project is for university evaluation.
-
+CRUD is for learning purposes. 
+The main project is for university evaluation. 
 Rajputh and Digireach are live projects that I completed during my two-month internship.
 
 1 : CRUD Project with PHP
 Overview:- This project demonstrates basic CRUD with Server Side Processing(Create, Read, Update, Delete) operations using PHP and MySQL. It serves as a learning tool for web development beginners.
 Technologies:- PHP, MySQL, HTML, CSS, JavaScript, Bootstrap, jQuery.
 
-2 : TMS Vult (1_Main_projecy)
+2 : TMS Vult (1_Main_project)
 Overview:- TMS Vault is a project designed to provide robust data security solutions using AES (Advanced Encryption Standard) encryption. TMS Vault ensures the confidentiality and integrity of sensitive   information, making it ideal for developers and organizations aiming to enhance their data protection measures.
 Technologies:- PHP, MySQL, HTML, CSS, JavaScript, Bootstrap, jQuery.
 
