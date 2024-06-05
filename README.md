@@ -20,7 +20,7 @@ Hi! I'm Raj, a web developer with a passion for building secure and user-friendl
 
   **Technologies:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap, jQuery
 
-  **Additional Details:** (Optional) Briefly describe the types of data TMS Vault secures (e.g., financial records, healthcare data) or its target users.
+  **Additional Details:**  Briefly describe the types of data TMS Vault secures (e.g., financial records, healthcare data) or its target users.
 
 ### Internship Projects
 
@@ -30,9 +30,9 @@ Hi! I'm Raj, a web developer with a passion for building secure and user-friendl
 
   **Technologies:** HTML, CSS, JavaScript, Bootstrap
 
-  **Enhancements:** (Optional) If the ID card generation involves unique features, mention them here (e.g., QR code integration, security measures).
+  **Enhancements:** If the ID card generation involves unique features, mention them here (e.g., QR code integration, security measures).
 
-* **Digireach Project** (Optional)
+* **Digireach Project**
 
   If you have another internship project named Digireach, provide a brief description here, highlighting different skills it showcases. 
 
