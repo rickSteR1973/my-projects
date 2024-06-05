@@ -1,6 +1,6 @@
 # My Portfolio
 
-Hi! I'm [your name], a web developer with a passion for building secure and user-friendly applications. This README serves as a brief overview of my projects and skills.
+Hi! I'm Raj, a web developer with a passion for building secure and user-friendly applications. This README serves as a brief overview of my projects and skills.
 
 ## Projects
 
@@ -49,4 +49,4 @@ Hi! I'm [your name], a web developer with a passion for building secure and user
 
 ## Contact
 
-Feel free to reach out to me via [your email address] for any questions or project inquiries.
+Feel free to reach out to me via p.rajpatel5504@gmail.com for any questions or project inquiries.
