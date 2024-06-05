@@ -20,8 +20,7 @@ Hi! I'm Raj, a web developer with a passion for building secure and user-friendl
 
   **Technologies:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap, jQuery
 
-  **Additional Details:**  Briefly describe the types of data TMS Vault secures (e.g., financial records, healthcare data) or its target users.
-
+  
 ### Internship Projects
 
 * **Rajputh Club (ID Card Generator) Overview**
