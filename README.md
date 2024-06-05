@@ -12,7 +12,7 @@ Hi! I'm Raj, a web developer with a passion for building secure and user-friendl
 
   **Technologies:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap, jQuery
 
-### University Projects
+### University Evolution Projects
 
 * **TMS Vault (1_Main_project) Overview**
 
