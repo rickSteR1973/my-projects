@@ -34,8 +34,11 @@ Hi! I'm Raj, a web developer with a passion for building secure and user-friendl
 
 * **Digireach Project**
 
-  If you have another internship project named Digireach, provide a brief description here, highlighting different skills it showcases. 
+This project served as a learning experience for me to build responsive web pages. I focused on implementing techniques to ensure my webpage adapts seamlessly across different screen sizes, including desktops, tablets, and mobile devices.
 
+  **Technologies:** HTML, CSS, JavaScript, jQuery(Bootstrap, Bootstrap-Icons, Media Queries, splidejs, etc.)
+
+ 
 ## Skills
 
 * **Front-End Development:** HTML, CSS, JavaScript, Bootstrap, jQuery
