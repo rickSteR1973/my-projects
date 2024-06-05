@@ -1,18 +1,52 @@
-CRUD is for learning purposes. 
-The main project is for university evaluation. 
-Rajputh and Digireach are live projects that I completed during my two-month internship.
+# My Portfolio
 
-1 : CRUD Project with PHP
-Overview:- This project demonstrates basic CRUD with Server Side Processing(Create, Read, Update, Delete) operations using PHP and MySQL. It serves as a learning tool for web development beginners.
-Technologies:- PHP, MySQL, HTML, CSS, JavaScript, Bootstrap, jQuery.
+Hi! I'm [your name], a web developer with a passion for building secure and user-friendly applications. This README serves as a brief overview of my projects and skills.
 
-2 : TMS Vult (1_Main_project)
-Overview:- TMS Vault is a project designed to provide robust data security solutions using AES (Advanced Encryption Standard) encryption. TMS Vault ensures the confidentiality and integrity of sensitive   information, making it ideal for developers and organizations aiming to enhance their data protection measures.
-Technologies:- PHP, MySQL, HTML, CSS, JavaScript, Bootstrap, jQuery.
+## Projects
 
-3 : Rajputh Club(ID card Genrator)
-Overview:-  This project enables the seamless generation of ID cards for Rajpath Club members, capturing and displaying client information accurately and securely within a user-friendly interface.(using above stacks(Only required Front-end))
-Technologies:- HTML, CSS, JavaScript, Bootstrap.
+### Learning Projects
 
+* **CRUD Project with PHP Overview**
 
-I have Salewebdesign front-end course also. it includes HTML, CSS, JS, jQuery
+  This project demonstrates basic CRUD (Create, Read, Update, Delete) operations using PHP and MySQL with server-side processing. It serves as a foundational learning tool for web development beginners.
+
+  **Technologies:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap, jQuery
+
+### University Projects
+
+* **TMS Vault (1_Main_project) Overview**
+
+  TMS Vault is a secure data storage application designed to provide robust data protection solutions using AES (Advanced Encryption Standard) encryption. It ensures the confidentiality and integrity of sensitive information, making it ideal for developers and organizations aiming to enhance their data security measures.
+
+  **Technologies:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap, jQuery
+
+  **Additional Details:** (Optional) Briefly describe the types of data TMS Vault secures (e.g., financial records, healthcare data) or its target users.
+
+### Internship Projects
+
+* **Rajputh Club (ID Card Generator) Overview**
+
+  This project enables the seamless generation of secure and user-friendly ID cards for Rajpath Club members. It captures and displays client information accurately within a user-friendly interface.
+
+  **Technologies:** HTML, CSS, JavaScript, Bootstrap
+
+  **Enhancements:** (Optional) If the ID card generation involves unique features, mention them here (e.g., QR code integration, security measures).
+
+* **Digireach Project** (Optional)
+
+  If you have another internship project named Digireach, provide a brief description here, highlighting different skills it showcases. 
+
+## Skills
+
+* **Front-End Development:** HTML, CSS, JavaScript, Bootstrap, jQuery
+* **Back-End Development:** PHP, MySQL (Basic knowledge)
+* **Version Control:** Git
+* **Learning:** Eager to learn new technologies and frameworks
+
+## Additional Learning
+
+* **Salewebdesign Front-End Course:** Completed a course on HTML, CSS, JavaScript, and jQuery.
+
+## Contact
+
+Feel free to reach out to me via [your email address] for any questions or project inquiries.
