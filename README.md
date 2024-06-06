@@ -42,7 +42,7 @@ This project served as a learning experience for me to build responsive web page
 
 * **Front-End Development:** HTML, CSS, JavaScript, Bootstrap, jQuery
 * **Back-End Development:** PHP, MySQL (Basic knowledge)
-* * **Other Languages:** Python, c, c++
+* **Other Languages:** Python, c, c++
 * **Version Control:** Git
 * **Learning:** Eager to learn new technologies and frameworks
 
