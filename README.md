@@ -33,7 +33,7 @@ Hi! I'm Raj, a web developer with a passion for building secure and user-friendl
 
 * **Digireach Project**
 
-This project served as a learning experience for me to build responsive web pages. I focused on implementing techniques to ensure my webpage adapts seamlessly across different screen sizes, including desktops, tablets, and mobile devices.
+  This project served as a learning experience for me to build responsive web pages. I focused on implementing techniques to ensure my webpage adapts seamlessly across different screen sizes, including desktops, tablets, and mobile devices.
 
   **Technologies:** HTML, CSS, JavaScript, jQuery(Bootstrap, Bootstrap-Icons, Media Queries, splidejs, etc.)
 
