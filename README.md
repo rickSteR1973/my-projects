@@ -50,4 +50,4 @@ Hi! I'm Raj, a web developer with a passion for building secure and user-friendl
 
 ## Contact
 
-Feel free to reach out to me via p.rajpatel5504@gmail.com for any questions or project inquiries.
+Feel free to reach out to me via p.rajpatel5504@gmail.com or Contact No: +91 9106197976 for any questions or project inquiries.
