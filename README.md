@@ -40,7 +40,7 @@ Hi! I'm Raj, a web developer with a passion for building secure and user-friendl
 
 * **Front-End Development:** HTML, CSS, JavaScript, Bootstrap, jQuery
 * **Back-End Development:** PHP, MySQL (Basic knowledge)
-* **Other Languages:** Python, c, c++
+* **Other Languages:** Python, C, C++ 
 * **Version Control:** Git
 * **Learning:** Eager to learn new technologies and frameworks(Next Target Wordpress & React/ Angular js)
 
